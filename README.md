@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sheharyar,Sheharyar
+- 👋 Hi, I’m Sheharyar
 
 <!---
 SheyBoiCarti/SheyBoiCarti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
