@@ -1,0 +1,4 @@
+# Playwright artifacts
+.playwright-mcp/
+profile-readme-preview.png
+preview.html
