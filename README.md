@@ -70,6 +70,19 @@ Building cool stuff...
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="left">🎛️ <a href="https://github.com/SheyBoiCarti/agy-cockpit">Antigravity Cockpit</a></h3>
+      <p>Local web control surface and execution cockpit for Antigravity AI agents, featuring real-time streaming timelines, tool approvals, file diffs, and multi-agent deliberation via an AI Council.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="left">♟️ <a href="https://github.com/SheyBoiCarti/ChessGameReviewer">ChessGameReviewer</a></h3>
       <p>Zero-backend browser application for exploring public Chess.com games, transposition-aware opening trees, and offline WebAssembly Stockfish engine analysis.</p>
       <p>
@@ -80,8 +93,6 @@ Building cool stuff...
         <img src="https://img.shields.io/badge/IndexedDB-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="IndexedDB" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🛡️ <a href="https://github.com/SheyBoiCarti/parental-control">Parental Control Network Manager</a></h3>
       <p>Linux network traffic control and packet inspection suite with ARP interception, bandwidth shaping via <code>tc</code>, DNS/TLS SNI filtering, and a real-time WebSocket dashboard.</p>
@@ -93,6 +104,8 @@ Building cool stuff...
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🎬 <a href="https://github.com/SheyBoiCarti/movie_app">Movie & TV Discovery App</a></h3>
       <p>Cross-platform mobile application for discovering trending titles with TMDB API integration, Google OAuth authentication, and cloud-synchronized favorites via Appwrite.</p>
@@ -102,6 +115,17 @@ Building cool stuff...
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
         <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🌐 <a href="https://github.com/SheyBoiCarti/sheharyar_portfolio">Developer Portfolio</a></h3>
+      <p>Cyber-inspired interactive personal developer portfolio presenting experience, skills, and projects with interactive 3D canvas visuals, fluid motion design, and responsive styling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+        <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       </p>
     </td>
   </tr>
