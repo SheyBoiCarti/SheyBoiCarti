@@ -59,6 +59,30 @@ Building cool stuff...
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="left">🏎️ <a href="https://github.com/SheyBoiCarti/RL-Racing">AI Racing</a></h3>
+      <p>Deterministic 2D top-down racing simulation and reinforcement learning platform featuring playable human-vs-AI modes, LiDAR raycast simulation, custom slip physics, and Gymnasium/Stable-Baselines3 PPO agents.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Gymnasium-1.4.0-darkgreen?style=flat-square" alt="Gymnasium" />
+        <img src="https://img.shields.io/badge/Stable--Baselines3-PPO-orange?style=flat-square" alt="Stable-Baselines3" />
+        <img src="https://img.shields.io/badge/Pygame-informational?style=flat-square&logo=python&logoColor=white" alt="Pygame" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🔍 <a href="https://github.com/SheyBoiCarti/QueryLens">QueryLens</a></h3>
+      <p>Natural-language data intelligence engine for PostgreSQL and MySQL that generates validated read-only SQL, metric definitions, interactive charts, and business schema exploration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="left">🧠 <a href="https://github.com/SheyBoiCarti/CVRAG">CVRAG</a></h3>
       <p>Interactive, evidence-grounded RAG engine indexing complex technical documents and CVs with sub-second hybrid vector search, query reformulation, and source citation expanders.</p>
       <p>
